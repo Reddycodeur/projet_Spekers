@@ -1,6 +1,6 @@
 # Nom du projet 
 
-Mon site web de la maquette spiroo.
+c'était un projet pour voir les different section de speakers.
 
 ## Apperçu
 
